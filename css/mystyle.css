@@ -1,0 +1,124 @@
+html{
+	background-color:rgba(178,187,108,0.3);
+}
+
+.yellow{
+	background-color: #72A795;
+}
+
+
+.white{
+	background-color: white;
+}
+
+.text-right{
+	text-align:right;
+}
+
+body{
+	font-family: 'Hind Vadodara', sans-serif;
+	background-color:rgba(178,187,108,0.3);
+
+}
+
+#title{
+	font-family: 'Patua One', cursive;
+	font-size: 100px;
+	text-align: center;
+	color:white;
+}
+
+
+p{
+	font-family: 'Patua One', cursive;
+}
+
+#boton{
+	font-family: 'Patua One', cursive;
+	text-transform: uppercase;
+	float:right;
+	margin-top: 10px;
+	background-color:rgb(178,187,108);
+
+}
+
+.contador{
+	font-family: 'Patua One', cursive;
+	float:right;
+}
+
+/*.likeable,.contador,.basurero{
+	float: right;
+}*/
+
+.text-tweet{
+	font-size: 20px;
+	overflow: auto;
+
+}
+
+#title-tweets{
+	text-align: right;
+}
+
+.container{
+	background-color: white;
+}
+
+#div-title{
+	padding:30px;
+	background:url("http://cdn-7.nikon-cdn.com/Images/Learn-Explore/Photography-Techniques/2012/Bokeh-for-Beginners/Media/Lindsay-Silverman-Bokeh-lights.jpg");
+	background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+}
+
+.likeable{
+	color:#FC9DFB;
+	margin-top: 10px;
+	padding-left: 90%;
+}
+
+.cuadro-tweet{
+	margin-top:5px;
+	border-radius: 15px 50px;
+    background: rgba(48,68,92,0.4);
+    padding: 20px;
+    border: 2px solid;
+	border-color: white; 
+	color:white;
+}
+
+.siz{
+	box-sizing: border-box;
+	border-left: 2px solid;
+	border-right: 2px solid;
+	border-color: white; 
+	padding-bottom: 30px;
+}
+
+.title-section{
+	margin-top: 40px;
+	font-family: 'Patua One', cursive;
+	font-size: 45px;
+}
+
+#zero{
+	text-align: center;
+	font-size: 30px;
+}
+
+#one{
+	border-top: 30px solid;
+	border-color: white; 
+	margin-top:30px;
+}
+
+#dos{
+	padding-top:30px;
+	padding-bottom: 30px;
+	border-bottom: 30px solid;
+	border-color: white; 
+	margin-bottom: 30px;
+
+}
